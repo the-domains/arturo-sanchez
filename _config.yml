@@ -1,6 +1,6 @@
 name: arturo sanchez
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26941
 typography_spectrum: 0.32146
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#070101'
+    - '#635144'
+    - '#a19996'
+    - '#d1b9a0'
   brandStrength: 0.8125
   lightness: 0.8746866676956415
-  saturation: 0.7062199842184782
+  saturation: 0.6875
   rhythmicContrast: 0.1578096856828779
 purpose: []
